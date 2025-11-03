@@ -7,7 +7,7 @@ Hospitals interact with a lot of people in a day and there are various activitie
 2) realtional schema
   <img width="1096" height="714" alt="Image" src="https://github.com/user-attachments/assets/f9d65315-8803-4184-b59f-31b4d5fa489f" />
 
-48e4-b44a-46cf15c7b815" />
+
 
 Patient's side detail
 
